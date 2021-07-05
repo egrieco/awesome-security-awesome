@@ -10,6 +10,16 @@ For more awesome repos that are not yet included in this repo, there’s the pri
 * [GitLab](https://gitlab.com/egrieco/awesome-security-awesome)
 * [GitHub](https://github.com/egrieco/awesome-security-awesome)
 
+## Disclaimer
+
+This repo is intended for security professionals that are able to adequately assess their personal and corporate threat models. The links provided below have not been deeply evaluated and there is **no guarantee whatsoever about their content and risks associated with visiting these links** or running programs found in the below repos.
+
+Some repos may contain malware samples and programs like [OONI Probe](https://ooni.org/install/) that may expose you to [risks](https://ooni.org/about/risks/) such as legal penalties and sanctions depending on your jurisdiction.
+
+Further, due to the adversarial nature of cybersecurity and hacking, it's best to browse these links with a browser that has JavaScript disabled, blocks known malicious hosts, and has had other security hardening and mitigations applied. Suggestions follow.
+
+**Proceed Carefully! Some repos may contain harmful content!**
+
 ## Forensics, Reversing, and OSINT
 
 1. [awesome-forensics](https://github.com/Cugu/awesome-forensics)
