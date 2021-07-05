@@ -20,6 +20,34 @@ Further, due to the adversarial nature of cybersecurity and hacking, it's best t
 
 **Proceed Carefully! Some repos may contain harmful content!**
 
+### Firefox Hardening
+
+Firefox can be dramatically hardened by enabling and disabling specific features. Some good examples of which features should be modified and how, consult the below repositories:
+
+* [arkenfox/user.js](https://github.com/arkenfox/user.js): Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
+* [pyllyukko/user.js](https://github.com/pyllyukko/user.js): user.js -- Firefox configuration hardening
+* [firefox-legacy-user-profile-customizations](https://github.com/poghahm/firefox-legacy-user-profile-customizations): Scripts to configure Firefox profiles
+
+### Ad Blockers
+
+Internet ads have become a popular threat vector. JavaScript also represents a broad attack surface. Disabling these dangerous features is always recommended, but even more so when conducting security research.
+
+* [uBlock](https://egrieco@github.com/gorhill/uBlock): uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+* [scriptsafe](https://github.com/andryou/scriptsafe): a browser extension to bring security and privacy to chrome, firefox, and opera
+* [noscript](https://github.com/hackademix/noscript): The popular NoScript Security Suite browser extension.
+* [behave](https://github.com/mindedsecurity/behave): Behave! A monitoring browser extension for pages acting as "bad boi"
+* [ClearURLs](https://gitlab.com/KevinRoebert/ClearUrls): an add-on that will automatically remove tracking elements from URLs to help protect your privacy when browse the Internet.
+
+### Secure OSes
+
+Ideally, in depth security research should be conducted from a dedicated machine running a secure OS such as:
+
+* [OpenBSD](https://www.openbsd.org/)
+* [Qubes OS](https://www.qubes-os.org/)
+* [Tails](https://tails.boum.org/)
+
+Not that while [Kali Linux](https://www.kali.org/), is designed for "Penetration Testing and Ethical Hacking" it is poorly hardened against attacks itself. **DO NOT USE Kali as a daily OS**.
+
 ## Forensics, Reversing, and OSINT
 
 1. [awesome-forensics](https://github.com/Cugu/awesome-forensics)
