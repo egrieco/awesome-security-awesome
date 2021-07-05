@@ -48,6 +48,13 @@ Ideally, in depth security research should be conducted from a dedicated machine
 
 Not that while [Kali Linux](https://www.kali.org/), is designed for "Penetration Testing and Ethical Hacking" it is poorly hardened against attacks itself. **DO NOT USE Kali as a daily OS**.
 
+## General
+
+General tools and starting points.
+
+1. [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+2. [awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam): A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
+
 ## Forensics, Reversing, and OSINT
 
 1. [awesome-forensics](https://github.com/Cugu/awesome-forensics)
