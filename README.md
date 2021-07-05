@@ -4,6 +4,12 @@ A collection of `awesome-*` repos (curated resources) related to cybersecurity.
 
 For more awesome repos that are not yet included in this repo, there’s the primary [awesome repo](https://github.com/sindresorhus/awesome#contents) and a whole [awesome category](https://github.com/topics/awesome) on GitHub with repos covering many, many subject areas.
 
+## Canonical Sources
+
+* [Keybase](keybase://team/securityidentity/awesome-security-awesome)
+* [GitLab](https://gitlab.com/egrieco/awesome-security-awesome)
+* [GitHub](https://github.com/egrieco/awesome-security-awesome)
+
 ## Forensics, Reversing, and OSINT
 
 1. [awesome-forensics](https://github.com/Cugu/awesome-forensics)
